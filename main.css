@@ -1,0 +1,91 @@
+body {
+    position: relative;
+    background-color: hsl(233, 47%, 7%);
+}
+
+.heading {
+    color: hsl(0, 0%, 100%);
+    margin: 50px 50px 0px 50px;
+    font-family: 'Inter';
+}
+
+.statement {
+    color: hsla(0, 0%, 100%, 0.75);
+    margin: 20px 50px 0px 50px;
+    font-family: 'Lexend Deca';
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.footer1 {
+    position: absolute;
+    color: hsl(0, 0%, 100%);
+    margin: 50px 0px 0px 50px;
+    font-family: 'Lexend Deca';
+    font-weight: 400;
+}
+
+.footer2 {
+    position: absolute;
+    color: hsl(0, 0%, 100%);
+    margin: 50px 0px 0px 150px;
+    font-family: 'Lexend Deca';
+    font-weight: 400;
+}
+
+.footer3 {
+    position: absolute;
+    color: hsl(0, 0%, 100%);
+    margin: 50px 0px 0px 250px;
+    font-family: 'Lexend Deca';
+    font-weight: 400;
+}
+
+.footer4 {
+    position: absolute;
+    color: hsla(0, 0%, 100%, 0.6);
+    font-family: 'Lexend Deca';
+    font-size: 12px;
+    margin: 85px 0px 0px 50px;
+}
+
+.footer5 {
+    position: absolute;
+    color: hsla(0, 0%, 100%, 0.6);
+    font-family: 'Lexend Deca';
+    font-size: 12px;
+    margin: 85px 0px 0px 150px;
+}
+
+.footer6 {
+    position: absolute;
+    color: hsla(0, 0%, 100%, 0.6);
+    font-family: 'Lexend Deca';
+    font-size: 12px;
+    margin: 85px 0px 0px 250px;
+}
+
+.img {
+    filter: brightness(60%);
+}
+
+
+/* Containers */
+
+.left-container {
+    background-color: hsl(244, 38%, 16%);
+    position: absolute;
+    width: 400px;
+    height: 310px;
+    margin: 200px 0px 0px 200px;
+}
+
+.right-container {
+    position: absolute;
+    width: 400px;
+    height: 310px;
+    margin: 200px 0px 0px 600px;
+}
+
+
+/* End of Containers */
